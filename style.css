@@ -1,0 +1,12 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.border-bottom{
+    border-bottom: 5px;
+}
+.banner{
+    background-image: url(/images/Slii.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
